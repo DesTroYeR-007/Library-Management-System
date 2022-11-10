@@ -1,0 +1,14 @@
+{
+  "resourceName": "file",
+  "policyUUID": "2c2d1ebc",
+  "bucketName": "librarymanagementsys3d31f8c18af748a28c636520046",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

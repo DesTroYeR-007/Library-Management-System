@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "librarymanagementsysaaa514c2": {}
+      },
+      "api": {
+        "librarymanagementsys": {}
+      },
+      "storage": {
+        "file": {}
       }
     }
   }
